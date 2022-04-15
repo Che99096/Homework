@@ -20,3 +20,4 @@ print("The cuberoot of given number is: ",cuberoot)
 print("The given number to the given exponent is: ",powerofnumber)
 print("The given number divided by itself is: ",numberdivitself)
 
+print("")
